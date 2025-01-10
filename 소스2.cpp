@@ -51,6 +51,6 @@ int main() {
 
     myAnimal = &myCow;
     myAnimal->makeSound();  // Cat의 makeSound() 호출
-    //이건 newtest확인용이에요
+    //이건 newtest확인용이에요 이게 왜 안되는거지?
     return 0;
 }
