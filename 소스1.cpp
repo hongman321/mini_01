@@ -20,4 +20,5 @@ int main() {
 	sum = sumArray(score, 5);
 
 	cout << Avg(sum) << endl;
+	//여기를 수정하면 메인에 안들어가는건가요?
 }
